@@ -1,0 +1,140 @@
+#container
+{
+    width: 99%;
+    min-height: 80%;
+    border-style: solid;
+    border-width:10px;
+    float: left;
+    font-family:Verdana;
+
+}
+container,h1
+{
+    text-align: center;
+    font-family:Cambria;
+}
+#container1,#container01,#container02,#container03
+{
+    text-align: center;
+    border-style:inset;
+    border-radius: 100px;
+    border-width: 10px;
+    margin-bottom: 2px;
+    color: #4caff0;
+}
+#event1,#event2,#event3
+{
+    margin-top: 80px;
+    margin-left: 110px;
+    width: 320px;
+    height: 320px;
+    border-radius: 160px;
+    border: solid;
+    float: left;
+   
+}
+.previous1,.previous2,.previous3
+{
+text-decoration: none;
+padding: 8px 16px;
+margin-left: 580px;
+background-color: #f1f1f1;
+color: #000;
+}
+.margin
+{
+    margin-top: 60px;
+}
+
+.next1,.next2
+{
+
+text-decoration: none;
+padding: 8px 16px;
+background-color: #4caff0;
+color: #000;
+margin-top: 0px;
+margin-right: 70px;
+}
+
+container,h3
+{
+margin-top: 10px;
+margin-left: 100px;
+}
+container,h5
+{
+    margin-left: 120px;
+}
+#footer
+{
+    margin-top: 490px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    width:90%;
+    height: 10px;
+    padding: 30px;
+    border: solid;
+}
+#container2
+{
+  
+    width: 90%;
+    min-height: 90%;
+    border-style: solid;
+    border-width: 3px;
+    margin: 70px;
+    float: left;  
+}
+.a-logo,.t-logo,.c-logo
+{
+    width: 320px;
+    height: 320px;
+    border-radius: 160px;
+}
+
+#container12,#container21,#container31
+{
+    width: 98%;
+    height: 800px;
+    border-style: solid;
+    border-width: 3px;
+    float: left;
+}
+#container13,#container22,#container32
+{
+    
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    margin: 20px;
+}
+.a1,.a2,.a3,.a4,.a5,.t1,.t2,.t3,.t4,.t5,.c1,.c2,.c3,.c4
+{
+  
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin-bottom: 300px;
+    border: solid;
+    float: left;
+}
+.a11,.a12,.a13,.a14,.a15,.t21,.t22,.t23,.t24,.t25,.c31,.c32,.c33,.c34
+{
+    width: 200px;
+    height: 200px;
+    margin-top: 60px;
+    margin-bottom: 300px;
+    margin-left: 60px;
+    border: solid;
+    float: left;
+    box-shadow: 0 0 0 10px #f00;
+    border-radius: 50px;
+} 
+
+.mark1
+{
+    color: #d914c2;
+    font: size 30px;
+    font-size: 20px;
+}
